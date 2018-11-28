@@ -20,11 +20,10 @@
                },
                "boards":[
                   { "name": "WB0WUQ Auto Tuner" },
-                  { "name": "WB0WUQ Watt Meter" },
-
+                  { "name": "WB0WUQ Watt Meter" }
                ],
                "toolsDependencies":[]
-            },
+            }
 
          ],
          "tools":[]
