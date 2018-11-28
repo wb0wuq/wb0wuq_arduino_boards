@@ -1,0 +1,33 @@
+{
+   "packages":[
+      {
+         "name": "wb0wuq arduino boards",
+         "maintainer": "ARS WB0WUQ",
+         "websiteURL": "http://wb0wuq.com",
+         "email": "",
+         "platforms":[
+            {
+               "name": "WB0WUQ Arduino Boards",
+               "architecture": "avr",
+               "version": "1.0.1",
+               "category": "Contributed",
+               "url": "https://github.com/wb0wuq/wb0wuq_arduino_boards/archive/1.0.0.zip",
+               "archiveFileName": "wb0wuq_arduino_boards.zip",
+               "checksum": "SHA:55DA5D82F79E34C945D8700A9A3F43DFDAD739F3",
+               "size": "39000",
+               "help":{
+                  "online":""
+               },
+               "boards":[
+                  { "name": "WB0WUQ Auto Tuner" },
+                  { "name": "WB0WUQ Watt Meter" },
+
+               ],
+               "toolsDependencies":[]
+            },
+
+         ],
+         "tools":[]
+      }
+   ]
+}
